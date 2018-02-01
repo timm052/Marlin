@@ -26,6 +26,8 @@
 #include <stdint.h>
 #include <math.h>
 
+#include "binary.h"
+
 #include "../pinmapping.h"
 
 #define LOW          0x00
